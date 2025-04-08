@@ -12,9 +12,9 @@ A Discord bot that extracts and displays information from Facebook Marketplace l
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create a `.env` file with your bot token and channel ID:
-
-
-4. Run the bot: `python main.py`
+DISCORD_TOKEN=your_discord_bot_token
+CHANNEL_ID=your_channel_id
+Copy4. Run the bot: `python main.py`
 
 ## Requirements
 - Python 3.8+
