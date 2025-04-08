@@ -14,7 +14,8 @@ A Discord bot that extracts and displays information from Facebook Marketplace l
 3. Create a `.env` file with your bot token and channel ID:
 DISCORD_TOKEN=your_discord_bot_token
 CHANNEL_ID=your_channel_id
-Copy4. Run the bot: `python main.py`
+Copy
+4. Run the bot: `python main.py`
 
 ## Requirements
 - Python 3.8+
